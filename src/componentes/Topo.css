@@ -1,0 +1,19 @@
+.fundo{
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 20px;
+    
+}
+
+h1{
+    margin: auto;
+}
+
+.icone{
+    font-size: 55px;
+    margin-left: 50px;
+    color: white;
+}
